@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "799372140157",
-    "project_id": "graduation-project-bbb91",
-    "storage_bucket": "graduation-project-bbb91.appspot.com"
+    "project_number": "390562657101",
+    "project_id": "besafeapp-560e0",
+    "storage_bucket": "besafeapp-560e0.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:799372140157:android:a38ccd3962ecf420985b14",
+        "mobilesdk_app_id": "1:390562657101:android:ea3db32010f8def22efd04",
         "android_client_info": {
-          "package_name": "com.example.graduation_application"
+          "package_name": "com.example.graduation_applicat"
         }
       },
       "oauth_client": [],
-      "api_key": [ 
+      "api_key": [
         {
-          "current_key": "AIzaSyDjX48J974EQ30doBM3CJ9J9271H9rPEjY"
+          "current_key": "AIzaSyB0j87M7k90XOMNsUqArkupe1yVREJUr5M"
         }
       ],
       "services": {
