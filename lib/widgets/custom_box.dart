@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:graduation_application/constants.dart';
-import 'package:graduation_application/screens/child/safezones_details._user.dart';
+import 'package:graduation_application/screens/child/safezones_details.dart';
 
 class CustomBox extends StatelessWidget {
   final String title;

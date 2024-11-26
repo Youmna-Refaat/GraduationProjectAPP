@@ -5,7 +5,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:graduation_application/constants.dart';
 import 'package:graduation_application/models/place_details_model/place_details_model.dart';
 import 'package:graduation_application/models/places_autocomplete_model/places_autocomplete_model.dart';
-import 'package:graduation_application/screens/child/safezones_details._user.dart';
+import 'package:graduation_application/screens/child/safezones_details.dart';
 import 'package:graduation_application/utils/google_maps_place_service.dart';
 import 'package:graduation_application/utils/refactored_location_service.dart';
 import 'package:graduation_application/widgets/Buttons/custom_add_safezone_button.dart';
